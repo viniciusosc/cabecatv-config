@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "radio": true,
+  "podcasts": true,
+  "freePlaylist": true,
+  "addPlaylist": true,
+  "blockedFreeItems": [],
+  "blockedStations": [],
+  "blockedPodcasts": [],
+  "notice": ""
+}
