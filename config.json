@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "radio": true,
-  "podcasts": true,
+  "radio": false,
+  "podcasts": false,
   "freePlaylist": true,
   "addPlaylist": true,
   "blockedFreeItems": [],
